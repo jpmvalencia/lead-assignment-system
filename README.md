@@ -73,6 +73,11 @@ It follows a normalized structure that separates concerns (**entities, relations
 
 ---
 
+## Entity-Relation
+<img width="1046" height="662" alt="lead-assigner-er" src="https://github.com/user-attachments/assets/e16b531b-00a3-44be-8eba-c8d0b658131d" />
+
+---
+
 ## 📌 General Modeling Justification
 
 ### 🔹 Auditability (`audit_logs`)
