@@ -44,7 +44,23 @@ docker compose up -d
 
 ---
 
-### 3. Start the simulator
+### 3. Populate the tables
+
+Run the script to insert initial data into the database. File: ./db/populate.sql
+
+---
+
+### 4. Install dependencies
+
+Activate your virtual environment, then install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+### 5. Start the simulator
 ```bash
 python simulator.py
 ```
@@ -55,7 +71,7 @@ python3 simulator.py
 
 ---
 
-### 4. Stop the simulator
+### 6. Stop the simulator
 ```bash
 CTRL + C
 ```
