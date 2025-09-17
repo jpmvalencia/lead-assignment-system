@@ -59,10 +59,6 @@ python3 simulator.py
 ```bash
 CTRL + C
 ```
-or
-```bash
-python3 simulator.py
-```
 
 ---
 
